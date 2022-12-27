@@ -34,3 +34,5 @@ handler.php
 /js/.DS_Store
 
 /js/.htaccess
+
+js/installer.php
