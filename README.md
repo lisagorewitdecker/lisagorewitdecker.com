@@ -1,5 +1,6 @@
 
 # www.lisagorewitdecker.com
+ AN HOMAGE TO ORIGINAL WEBSITE DESIGN
 HTML5, CSS3, JavaScript (PHP Contact Form with Google ReCAPTCHA) Website
 
 ## License
@@ -52,6 +53,5 @@ Lisa Gorewit-Decker
 ## License
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 =======
-# www.lisagorewitdecker.com.com
- AN HOMAGE TO ORIGINAL WEBSITE DESIGN
+
 
